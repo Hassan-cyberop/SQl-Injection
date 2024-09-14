@@ -38,4 +38,11 @@
 ## 🚨 Legal Disclaimer
 *The use of this report for illegal activities without prior consent from the target is against the law. The author assumes no responsibility for any misuse or damages.*
 
+
 ---
+
+### 👨‍💻 Author
+- [Hassan Raza]
+
+### 📅 Date of Report
+- August 22, 2024
