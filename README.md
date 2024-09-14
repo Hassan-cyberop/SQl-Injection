@@ -42,7 +42,7 @@
 ---
 
 ### 👨‍💻 Author
-- [Hassan Raza]
+- Hassan Raza
 
 ### 📅 Date of Report
 - August 22, 2024
